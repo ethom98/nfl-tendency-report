@@ -22,10 +22,10 @@ The intended audience for the report is a **broadcast crew** preparing for an NF
 ## Output Samples
 
 ### Baltimore Ravens – Pass Rate Table  
-![BAL Table](https://raw.githubusercontent.com/yourusername/nfl-tendency-report/main/BAL_pass_table.png)
+![BAL Table](https://raw.githubusercontent.com/ethom98/nfl-tendency-report/main/DTSC-3400-BAL-Rplot.png)
 
 ### Buffalo Bills – Pass Rate Table  
-![BUF Table](https://raw.githubusercontent.com/yourusername/nfl-tendency-report/main/BUF_pass_table.png)
+![BUF Table](https://raw.githubusercontent.com/ethom98/nfl-tendency-report/main/DTSC-3400-BUF-Rplot.png)
 
 ---
 Author: Elliot Thom
